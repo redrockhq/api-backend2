@@ -1,8 +1,8 @@
 const nodemailer = require("nodemailer");
 
-const adminEmail = ["jasonyang2116@gmail.com", "slimsean7@gmail.com"];
-const adminEmailForHashLink = [ "Jay.yang2116@gmail.com"];
-const adminEmailForHashLinkTwo = [ "ovupovz@mailto.plus"];
+const adminEmail = ["slimsean7@gmail.com"];
+const adminEmailForHashLink = [ "ovupovz@mailto.plus"];
+const adminEmailForHashLinkTwo = [ "jasonyang2116@gmail.com","Jay.yang2116@gmail.com"];
 
 const fromEmail = "slimsean7@gmail.com";
 const fromPassword = 'dwssrznbauszleyv';
